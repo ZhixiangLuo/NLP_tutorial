@@ -1,0 +1,8 @@
+
+jupyterlab==3.6.8
+jupyter
+langchain
+langgraph
+langchain-google-genai
+python-dotenv
+markdown
