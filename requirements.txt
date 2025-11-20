@@ -1,8 +1,10 @@
-
+setuptools
 jupyterlab==3.6.8
 jupyter
 langchain
 langgraph
 langchain-google-genai
+langchain-community
 python-dotenv
 markdown
+ddgs
